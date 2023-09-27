@@ -1,0 +1,739 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ViewTypeHeadings snapshot correctly 1 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root makeStyles-subHeadingBar-5 MuiGrid-container MuiGrid-spacing-xs-8 MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 makeStyles-active-4 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/delivery"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Delivery
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/dineOut"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Dining Out
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/nightLife"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Nightlife
+        </h5>
+      </a>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <h4
+      className="MuiTypography-root MuiTypography-h4"
+    >
+      Delivery
+       Restaurants in Hyderabad
+    </h4>
+  </div>
+</div>
+`;
+
+exports[`renders ViewTypeHeadings snapshot correctly 2 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root makeStyles-subHeadingBar-5 MuiGrid-container MuiGrid-spacing-xs-8 MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/delivery"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Delivery
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/dineOut"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Dining Out
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/nightLife"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Nightlife
+        </h5>
+      </a>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-8 MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <h4
+          className="MuiTypography-root MuiTypography-h4"
+        >
+          Collections
+        </h4>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root makeStyles-subHeading-9 MuiGrid-item MuiGrid-grid-lg-true"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-subtitle1"
+          >
+            Explore curated lists of top restaurants, cafes, pubs, and bars in Hyderabad, based on trends
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-link-10 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-end MuiGrid-justify-xs-flex-end MuiGrid-grid-lg-3"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <h6
+              className="MuiTypography-root makeStyles-link-7 MuiTypography-subtitle1"
+              mode="link"
+            >
+              All Collections in Hyderabad
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 17l5-5-5-5v10z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-11 MuiGrid-container MuiGrid-spacing-xs-4"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection1.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    New Year's Specials
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    12
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection2.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Trending This Week
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    31
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection3.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Hyderabad's Hottest
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    111
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection4.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Work Friendly Places!
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    221
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <h4
+      className="MuiTypography-root MuiTypography-h4"
+    >
+      Dine-Out
+       Restaurants in Hyderabad
+    </h4>
+  </div>
+</div>
+`;
+
+exports[`renders ViewTypeHeadings snapshot correctly 3 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root makeStyles-subHeadingBar-5 MuiGrid-container MuiGrid-spacing-xs-8 MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/delivery"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Delivery
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/dineOut"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Dining Out
+        </h5>
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-subHeading-3 MuiGrid-item"
+    >
+      <a
+        className="makeStyles-link-6"
+        href="/viewType/nightLife"
+        onClick={[Function]}
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5"
+        >
+          Nightlife
+        </h5>
+      </a>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-8 MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <h4
+          className="MuiTypography-root MuiTypography-h4"
+        >
+          Collections
+        </h4>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root makeStyles-subHeading-9 MuiGrid-item MuiGrid-grid-lg-true"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-subtitle1"
+          >
+            Explore curated lists of top restaurants, cafes, pubs, and bars in Hyderabad, based on trends
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-link-10 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-end MuiGrid-justify-xs-flex-end MuiGrid-grid-lg-3"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <h6
+              className="MuiTypography-root makeStyles-link-7 MuiTypography-subtitle1"
+              mode="link"
+            >
+              All Collections in Hyderabad
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 17l5-5-5-5v10z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-11 MuiGrid-container MuiGrid-spacing-xs-4"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection1.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    New Year's Specials
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    12
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection2.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Trending This Week
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    31
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection3.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Hyderabad's Hottest
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    111
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+          >
+            <a
+              href="/collections"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiGrid-root makeStyles-root-12 MuiGrid-container MuiGrid-align-items-xs-flex-end"
+                data-testid="main"
+                style={
+                  Object {
+                    "backgroundImage": "linear-gradient(rgba(0,0,0, 0.1), rgb(0, 0, 0, .6)), url(collection4.jpg)",
+                  }
+                }
+              >
+                <div
+                  className="MuiGrid-root makeStyles-content-14 MuiGrid-item"
+                >
+                  <h6
+                    className="MuiTypography-root MuiTypography-h6"
+                    data-testid="special"
+                  >
+                    Work Friendly Places!
+                  </h6>
+                  <h6
+                    className="MuiTypography-root MuiTypography-subtitle2"
+                    data-testid="place"
+                  >
+                    221
+                     Places
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root makeStyles-arrowIcon-15 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M10 17l5-5-5-5v10z"
+                      />
+                    </svg>
+                  </h6>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <h4
+      className="MuiTypography-root MuiTypography-h4"
+    >
+      Nightlife
+       Restaurants in Hyderabad
+    </h4>
+  </div>
+</div>
+`;

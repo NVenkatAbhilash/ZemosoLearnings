@@ -1,0 +1,1276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders HomeView correctly when loggedIn 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-7"
+>
+  <div
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root makeStyles-topPart-3 MuiGrid-container MuiGrid-spacing-xs-7 MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-true"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-subtitle2"
+          mode="link"
+        >
+          Get the App
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="loginButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Log in
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="signupButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Sign up
+        </h6>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-5 MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <img
+          alt="logo"
+          className="makeStyles-logo-2"
+          src="logo.webp"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-align-items-xs-baseline MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h4"
+          >
+            Discover the best food & drinks in
+          </h4>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h5
+            className="MuiTypography-root MuiTypography-h5"
+          >
+            Hyderabad
+          </h5>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-search-5 MuiGrid-item MuiGrid-grid-sm-12"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-7 MuiGrid-container MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-icon-8"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-locationInput-9 MuiGrid-item"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Hyderabad"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-arrowIcon-12 MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              className="makeStyles-line-10"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-searchBar-14 MuiGrid-item MuiGrid-grid-sm-true"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl MuiInputBase-marginDense MuiInput-marginDense"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input MuiInputBase-inputMarginDense MuiInput-inputMarginDense"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Search for restaurant, cuisine or a dish"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-searchIcon-11"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-15 MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-space-evenly"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/delivery"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection2.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Order Food Online
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/dineOut"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection4.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Go out for a meal
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/nightLife"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection3.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Nightlife & Clubs
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <img
+              alt="view type"
+              className="makeStyles-image-17"
+              src="collection5.jpg"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+              data-testid="text"
+            >
+              Zomato Pro
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders HomeView correctly when not logged in 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-7"
+>
+  <div
+    className="makeStyles-popup-24"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root makeStyles-container-19 MuiGrid-container"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-baseline"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-true"
+          >
+            <h4
+              className="MuiTypography-root MuiTypography-h4"
+            >
+              Login
+            </h4>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+              data-testid="close"
+              focusable="false"
+              onClick={[Function]}
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+          </div>
+        </div>
+        <form
+          className="makeStyles-form-20"
+          noValidate={true}
+        >
+          <div
+            className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+            data-testid="email"
+            onKeyUp={[Function]}
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+              data-shrink={false}
+            >
+              Email Address
+              <span
+                aria-hidden={true}
+                className="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+              >
+                 
+                *
+              </span>
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoComplete="email"
+                autoFocus={true}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                name="email"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={true}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-26 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-28"
+                >
+                  <span>
+                    Email Address
+                     *
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+          <div
+            className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+            data-testid="password"
+            onKeyUp={[Function]}
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+              data-shrink={false}
+            >
+              Password
+              <span
+                aria-hidden={true}
+                className="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+              >
+                 
+                *
+              </span>
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoComplete="current-password"
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                name="password"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={true}
+                type="password"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-26 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-28"
+                >
+                  <span>
+                    Password
+                     *
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-submit-21 MuiButton-containedSecondary MuiButton-fullWidth"
+            data-testid="button"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="submit"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Sign In
+            </span>
+          </button>
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+              >
+                or
+              </h6>
+            </div>
+          </div>
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-google-22 MuiButton-fullWidth"
+            data-testid="googleLogin"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="submit"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Continue with Google
+            </span>
+          </button>
+          <div
+            className="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <p
+                className="MuiTypography-root MuiTypography-body1"
+              >
+                New to Zemoto? 
+              </p>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                className="makeStyles-link-25"
+                data-testid="signUp"
+                onClick={[Function]}
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1"
+                >
+                  <span
+                    className="makeStyles-red-23"
+                  >
+                     Sign Up
+                  </span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root makeStyles-topPart-3 MuiGrid-container MuiGrid-spacing-xs-7 MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-true"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-subtitle2"
+          mode="link"
+        >
+          Get the App
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="loginButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Log in
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="signupButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Sign up
+        </h6>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-5 MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <img
+          alt="logo"
+          className="makeStyles-logo-2"
+          src="logo.webp"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-align-items-xs-baseline MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h4"
+          >
+            Discover the best food & drinks in
+          </h4>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h5
+            className="MuiTypography-root MuiTypography-h5"
+          >
+            Hyderabad
+          </h5>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-search-5 MuiGrid-item MuiGrid-grid-sm-12"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-7 MuiGrid-container MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-icon-8"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-locationInput-9 MuiGrid-item"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Hyderabad"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-arrowIcon-12 MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              className="makeStyles-line-10"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-searchBar-14 MuiGrid-item MuiGrid-grid-sm-true"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl MuiInputBase-marginDense MuiInput-marginDense"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input MuiInputBase-inputMarginDense MuiInput-inputMarginDense"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Search for restaurant, cuisine or a dish"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-searchIcon-11"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-15 MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-space-evenly"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/delivery"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection2.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Order Food Online
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/dineOut"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection4.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Go out for a meal
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/nightLife"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection3.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Nightlife & Clubs
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <img
+              alt="view type"
+              className="makeStyles-image-17"
+              src="collection5.jpg"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+              data-testid="text"
+            >
+              Zomato Pro
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders HomeView snapshot correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-7"
+>
+  <div
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root makeStyles-topPart-3 MuiGrid-container MuiGrid-spacing-xs-7 MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-true"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-subtitle2"
+          mode="link"
+        >
+          Get the App
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="loginButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Log in
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item"
+        data-testid="signupButton"
+        onClick={[Function]}
+      >
+        <h6
+          className="MuiTypography-root makeStyles-link-6 MuiTypography-h6"
+          mode="link"
+        >
+          Sign up
+        </h6>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-5 MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <img
+          alt="logo"
+          className="makeStyles-logo-2"
+          src="logo.webp"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-align-items-xs-baseline MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h4"
+          >
+            Discover the best food & drinks in
+          </h4>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h5
+            className="MuiTypography-root MuiTypography-h5"
+          >
+            Hyderabad
+          </h5>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-search-5 MuiGrid-item MuiGrid-grid-sm-12"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-7 MuiGrid-container MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-icon-8"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-locationInput-9 MuiGrid-item"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Hyderabad"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-arrowIcon-12 MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              className="makeStyles-line-10"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-searchBar-14 MuiGrid-item MuiGrid-grid-sm-true"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              data-testid="textField"
+            >
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl MuiInputBase-marginDense MuiInput-marginDense"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiInput-input MuiInputBase-inputMarginDense MuiInput-inputMarginDense"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Search for restaurant, cuisine or a dish"
+                  required={false}
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-searchIcon-11"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-15 MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-space-evenly"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/delivery"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection2.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Order Food Online
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/dineOut"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection4.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Go out for a meal
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <a
+          href="/viewType/nightLife"
+          onClick={[Function]}
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <img
+                alt="view type"
+                className="makeStyles-image-17"
+                src="collection3.jpg"
+              />
+            </div>
+            <div
+              className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-h6"
+                data-testid="text"
+              >
+                Nightlife & Clubs
+              </h6>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+      >
+        <div
+          className="MuiGrid-root makeStyles-root-16 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <img
+              alt="view type"
+              className="makeStyles-image-17"
+              src="collection5.jpg"
+            />
+          </div>
+          <div
+            className="MuiGrid-root makeStyles-content-18 MuiGrid-item"
+          >
+            <h6
+              className="MuiTypography-root MuiTypography-h6"
+              data-testid="text"
+            >
+              Zomato Pro
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

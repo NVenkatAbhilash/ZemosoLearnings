@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ViewTypeItem snapshot correctly 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-space-evenly"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+  >
+    <a
+      href="/viewType/delivery"
+      onClick={[Function]}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root makeStyles-root-2 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <img
+            alt="view type"
+            className="makeStyles-image-3"
+            src="collection2.jpg"
+          />
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-content-4 MuiGrid-item"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-h6"
+            data-testid="text"
+          >
+            Order Food Online
+          </h6>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+  >
+    <a
+      href="/viewType/dineOut"
+      onClick={[Function]}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root makeStyles-root-2 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <img
+            alt="view type"
+            className="makeStyles-image-3"
+            src="collection4.jpg"
+          />
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-content-4 MuiGrid-item"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-h6"
+            data-testid="text"
+          >
+            Go out for a meal
+          </h6>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+  >
+    <a
+      href="/viewType/nightLife"
+      onClick={[Function]}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root makeStyles-root-2 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <img
+            alt="view type"
+            className="makeStyles-image-3"
+            src="collection3.jpg"
+          />
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-content-4 MuiGrid-item"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-h6"
+            data-testid="text"
+          >
+            Nightlife & Clubs
+          </h6>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-2 MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <img
+          alt="view type"
+          className="makeStyles-image-3"
+          src="collection5.jpg"
+        />
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-content-4 MuiGrid-item"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+          data-testid="text"
+        >
+          Zomato Pro
+        </h6>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/resources/css/style.css">
+    <title>Gallery Admin</title>
+    <style>
+    </style>
+</head>
+
+<body>
+    <div class="row">
+        <ul class="main-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html#about-me">About Me</a></li>
+            <li><a href="index.html#gallery">Gallery</a></li>
+            <li><a href="#">Gallery-admin</a></li>
+            <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+    </div>
+    <br><br>
+    <center>
+    <div class="row" class="gallery" id="gallery-admin">
+        
+            <div class="heading">
+                <h3>GALLERY ADMIN</h3>
+                <div class="underline"></div>
+            </div>
+        
+        <div id="button-parent">
+            <button class="add-button" onclick="displayAddPhoto()">add photo</button>
+        </div>
+        <br>
+        <div class="photos">
+        </div>
+    </div>
+</center>
+    <div id="photo-details">
+        <img class="close" src="resources/img/close.png">
+        <form id="photo-form">
+            <br>
+            <div>
+                <input type="hidden" id="photo-id" name="id" value="-1">
+            </div>
+            <label name="name">Name *</label>
+            <div>
+                <input type="text" id="photo-name" name="name" placeholder="Photo name...">
+                <span id="empty-name" class="error">is required</span>
+            </div>
+            <label name="url">URL *</label>
+            <div>
+                <input type="text" id="photo-url" name="url" placeholder="Photo url...">
+                <span id="url-error" class="error">invalid url</span>
+                <span id="empty-url" class="error">is required</span>
+            </div>
+            <label name="date">date *</label>
+            <div>
+                <input type="text" id="photo-date" name="date" placeholder="DD/MM/YYYY">
+                <span id="date-error" class="error">invalid date</span>
+                <span id="empty-date" class="error">is required</span>
+            </div>
+
+            <label name="information">Information</label>
+            <textarea name="information" id="photo-information" placeholder="Write something..."></textarea>
+            <input class="button" type="submit">
+        </form>
+    </div>
+
+    <script src="resources/app.js"></script>
+    <script src="resources/gallery-admin.js"></script>
+    <script>
+        init();
+    </script>
+</body>
